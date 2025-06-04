@@ -3,8 +3,6 @@ como por ejemplo identificacion, nombre, apellido, correo electronico, y para fi
 los usuarios creados con su respectivo rol. toda esta informacion la podremos visualizar en su respectiva base de datos (Sqlite) 
 
 
-Para abrir el fronted debemos de ir a la carpeta del archivo ya abrir el que dice index.html
-
 para abrir el backend debemos de ejecutar una serie de comandos 
 -creamos la carpeta package.jason escribiendo en la terminal del proyecto/// 
 npm init -y
